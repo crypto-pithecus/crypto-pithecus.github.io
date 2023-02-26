@@ -15,6 +15,15 @@
     * (2022 - 2023) Sui testnet wave 1 and 2
     * (2021 - ongoing) Massa Network phase 1 - phase 19
     * (2021 - ongoing) Meson Network
-    * (2022) NYM testnet Finney and Milhon
-    * Among many other testnet participation experiences since 2020
     
+
+# Validator / Collator
+- Polkadot / Kusama ecosystem
+    * (2021 - 2022) Khala Network node operator
+
+- Testnet participation
+    * (2022) NYM testnet Finney and Milhon
+    * (2021) UMee (Cosmos) testnet validator (OG)
+    * (2021) Streamr
+    * Among many other testnet participation experiences since 2020
+
