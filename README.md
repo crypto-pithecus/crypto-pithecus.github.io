@@ -8,3 +8,5 @@
     * Collator `pithecus-mangatax-john316` (main) and `mgx-pithecus-john316` (backup) on [Mangata Finance (Telemetry)](https://telemetry.polkadot.io/#/0xd611f22d291c5b7b69f1e105cca03352984c344c4421977efaa4cbdd1834e2aa) 
 
 - Other blockchains/network
+    * Presearch two nodes: US and DE each [Node explorer](https://network.presearch.com/) (The details can be provided upon request.)
+    * 
